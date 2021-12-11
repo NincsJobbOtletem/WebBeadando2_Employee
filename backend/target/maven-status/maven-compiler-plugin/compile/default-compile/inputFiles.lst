@@ -1,0 +1,11 @@
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/repositories/EmployeeRepository.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/services/EmployeeService.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/exceptions/ApiExceptionHandler.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/models/dto/EmployeeDto.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/exceptions/customs/EmployeeNotFoundException.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/models/entities/Employee.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/configs/cors/CorsConfig.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/EmployeesManagementApplication.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/exceptions/payloads/ExceptionMsg.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/services/EmployeeServiceImpl.java
+/home/siphon/Desktop/webbea2/employees-simple-management/backend/src/main/java/com/selimhorri/pack/controllers/EmployeeRestController.java
