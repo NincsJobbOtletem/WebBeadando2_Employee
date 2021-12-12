@@ -3,6 +3,4 @@ Front_end:
 npm install
 npm start
 
-Back_end:
-
-mvn spring-boot:run
+Back_end:mvn spring-boot:run
