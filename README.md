@@ -5,4 +5,4 @@ npm start
 
 Back_end:
 
-mvn spring-boot:run^C
+mvn spring-boot:run
